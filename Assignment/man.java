@@ -1,5 +1,5 @@
-Q2
-public class Main {
+
+public class  man{
     public static void main(String[] args) {
         printNameDetails("John", "Doe");
     }
@@ -12,15 +12,5 @@ public class Main {
         System.out.println("Hello, my name is " + fullName + ". There are " + firstNameLength + " letters in my first name and " + lastNameLength + " letters in my last name.");
     }
 }
+// they are the same
 
-3E
-public class Main {
-    public static void main(String[] args) {
-        int count = 10; // Initial count value
-
-        while (count >= 1) {
-            System.out.println(count);
-            count--; // Decrement the count for the next iteration
-        }
-    }
-}
